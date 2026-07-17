@@ -60,7 +60,7 @@ export default function Hero() {
       </div>
 
       <div className="hero__portrait">
-        <img src="/photo.png" alt="Raghu" />
+        <img src={`${import.meta.env.BASE_URL}photo.png`} alt="Raghu" />
       </div>
 
       <a className="hero__resume" href="#">Resume ↗</a>
