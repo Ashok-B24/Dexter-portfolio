@@ -1,15 +1,15 @@
 const GROUPS = [
   {
-    label: 'Security',
-    items: ['Wireshark', 'Nmap', 'Kali Linux', 'Metasploit', 'OWASP', 'Penetration Testing'],
+    label: 'Category One',
+    items: ['Skill', 'Skill', 'Skill', 'Skill'],
   },
   {
-    label: 'Development',
-    items: ['Python', 'C++', 'IoT Applications', 'Web Designing'],
+    label: 'Category Two',
+    items: ['Skill', 'Skill', 'Skill'],
   },
   {
-    label: 'Design & Strategy',
-    items: ['Figma', 'Canva', 'Digital Marketing'],
+    label: 'Category Three',
+    items: ['Skill', 'Skill', 'Skill'],
   },
 ]
 

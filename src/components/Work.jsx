@@ -1,23 +1,23 @@
 const PROJECTS = [
   {
-    title: 'Network Vulnerability Reports',
-    cat: 'Cybersecurity',
-    desc: 'Comprehensive vulnerability assessments delivered for institutional network infrastructure and telecom deployments across India.',
+    title: 'Project Name',
+    cat: 'Category',
+    desc: 'A short description of the project, what it does, and the problem it solves.',
   },
   {
-    title: 'Subclinical Mastitis IoT Detector',
-    cat: 'IoT · Hardware',
-    desc: 'An IoT model detecting the early onset of subclinical mastitis among cattle — bridging hardware sensing and veterinary diagnostics.',
+    title: 'Project Name',
+    cat: 'Category',
+    desc: 'A short description of the project, what it does, and the problem it solves.',
   },
   {
-    title: 'Sleep Apnea Diagnostic Device',
-    cat: 'Medical IoT',
-    desc: 'A diagnostic device developed in collaboration with Rajarajeswari Medical College for sleep apnea detection.',
+    title: 'Project Name',
+    cat: 'Category',
+    desc: 'A short description of the project, what it does, and the problem it solves.',
   },
   {
-    title: 'Android ROM Security Review',
-    cat: 'Mobile Security',
-    desc: 'Reviewed multiple Android ROMs, unlocked bootloaders, and tested security vulnerabilities across recent update patches.',
+    title: 'Project Name',
+    cat: 'Category',
+    desc: 'A short description of the project, what it does, and the problem it solves.',
   },
 ]
 

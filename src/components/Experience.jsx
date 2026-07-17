@@ -1,27 +1,21 @@
 const ROLES = [
   {
-    period: 'Sep 2024 — Present',
-    title: 'Security Intern',
-    org: 'NDI Communications · Israel',
-    desc: 'Delivering security assessments for network infrastructure across Indian institutions and telecom networks. Producing comprehensive vulnerability reports mentored by Yoram Orzach.',
+    period: 'Start Date — End Date',
+    title: 'Job Title',
+    org: 'Company Name · Location',
+    desc: 'Brief description of your responsibilities, achievements, and impact in this role.',
   },
   {
-    period: 'Jan 2025 — Present',
-    title: 'Executive Director, PR',
-    org: 'Rotaract District 3192',
-    desc: 'Spearheading the Rotary–Rotaract brand. Leading social media and content generation across the district.',
+    period: 'Start Date — End Date',
+    title: 'Job Title',
+    org: 'Company Name · Location',
+    desc: 'Brief description of your responsibilities, achievements, and impact in this role.',
   },
   {
-    period: 'Jan 2025 — Present',
-    title: 'Secretary',
-    org: 'Rotaract Club of Bangalore Rajmahal Vilas',
-    desc: 'Point of contact between the District Secretariat and the club Board of Directors. Coordinating avenue operations and public representation.',
-  },
-  {
-    period: 'Jun 2022 — Jan 2023',
-    title: 'Digital Marketing Strategist',
-    org: 'Golden Rox Motors',
-    desc: 'Revamped brand image and ran campaign creatives that lifted customer engagement on festival offers.',
+    period: 'Start Date — End Date',
+    title: 'Job Title',
+    org: 'Company Name · Location',
+    desc: 'Brief description of your responsibilities, achievements, and impact in this role.',
   },
 ]
 

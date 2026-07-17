@@ -39,7 +39,7 @@ export default function Nav() {
   return (
     <nav className="nav" ref={navRef}>
       <div className="nav__inner">
-        <a className="nav__logo" href="#">RAGHU</a>
+        <a className="nav__logo" href="#">SITE</a>
         <div className="nav__links">
           <a href="#about" data-cursor="View">About</a>
           <a href="#experience" data-cursor="View">Experience</a>

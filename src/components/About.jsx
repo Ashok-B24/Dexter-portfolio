@@ -1,8 +1,7 @@
 const FACTS = [
-  ['Based in', 'Bangalore, India'],
-  ['Field', 'B.Tech CSE — IoT, Cybersecurity & Blockchain'],
-  ['College', 'RajaRajeswari College of Engineering'],
-  ['Languages', 'English · Hindi · Kannada · Tamil · Telugu · Japanese'],
+  ['Based in', 'Your Location'],
+  ['Field', 'Your Field of Study / Work'],
+  ['Languages', 'Language 1 · Language 2 · Language 3'],
 ]
 
 export default function About() {
@@ -14,15 +13,11 @@ export default function About() {
 
       <div className="about__grid">
         <h2 className="about__headline">
-          Fullstack developer and <em>security researcher</em> building things that
-          shouldn't break — and breaking things that shouldn't be built.
+          A short, impactful headline about <em>what you do</em> and why it matters.
         </h2>
 
         <p className="about__body">
-          Currently interning with <strong>NDI Communications (Israel)</strong>,
-          mentoring under Yoram Orzach on network infrastructure vulnerability
-          assessment for Indian institutions and telecom networks. Background spans
-          fullstack development, IoT hardware, and offensive security.
+          A brief paragraph about your background, current focus, and what drives your work.
         </p>
 
         <dl className="about__facts">
