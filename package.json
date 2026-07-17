@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vite build && gh-pages -d dist -t"
+    "deploy": "vite build --base=/Portfolio/ && gh-pages -d dist -t"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.0.3",
