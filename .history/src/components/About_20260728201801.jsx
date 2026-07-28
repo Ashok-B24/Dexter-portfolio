@@ -1,8 +1,8 @@
 const FACTS = [
   ['Based in', 'Bengaluru, India'],
-  ['Field', 'Computer Science & Business Systems'],
+  ['Field', 'Computer Science and Business Systems'],
   ['Role', 'Software Engineering'],
-  ['Languages', 'English · Kannada · Telugu · Hindi · Tamil'],
+  ['Languages', 'English · Telugu · Kannada · Hindi · Tamil'],
 ]
 
 export default function About() {

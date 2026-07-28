@@ -12,32 +12,22 @@ export default function Contact() {
       </h2>
 
       <div className="contact__rows">
-        <a
-          className="contact__row"
-          href="mailto:ashokb2404@gmail.com"
-          data-cursor="Email"
-        >
+        <a className="contact__row" href="mailto:" data-cursor="Email">
           <span className="contact__key">Email</span>
-          <span className="contact__val">ashokb2404@gmail.com</span>
+          <span className="contact__val">your.email@example.com</span>
         </a>
-
-        <a
-          className="contact__row"
-          href="tel:+919986976276"
-          data-cursor="Call"
-        >
+        <a className="contact__row" href="tel:" data-cursor="Call">
           <span className="contact__key">Phone</span>
-          <span className="contact__val">+91 9986976276</span>
+          <span className="contact__val">+00 000 000 0000</span>
         </a>
-
         <div className="contact__row">
           <span className="contact__key">Location</span>
-          <span className="contact__val">Bengaluru, India</span>
+          <span className="contact__val">City, Country</span>
         </div>
       </div>
 
       <footer className="footer">
-        <span>© {new Date().getFullYear()} Ashok B</span>
+        <span>© {new Date().getFullYear()} Your Name</span>
         <span>Built with React · Vite · GSAP</span>
       </footer>
     </section>

@@ -1,29 +1,15 @@
 const GROUPS = [
   {
-    label: 'Programming Languages',
-    items: [
-      'Python',
-      'Java',
-      'C++',
-      'JavaScript',
-    ],
+    label: 'Category One',
+    items: ['Skill', 'Skill', 'Skill', 'Skill'],
   },
   {
-    label: 'Web Development',
-    items: [
-      'React',
-      'Node.js',
-      'HTML',
-      'CSS',
-      'Bootstrap',
-    ],
+    label: 'Category Two',
+    items: ['Skill', 'Skill', 'Skill'],
   },
   {
-    label: 'Core CS Concepts',
-    items: [
-      'Data Structures and Algorithms (C/Java)',
-      'Object-Oriented Programming (Java)',
-    ],
+    label: 'Category Three',
+    items: ['Skill', 'Skill', 'Skill'],
   },
 ]
 
@@ -38,7 +24,6 @@ export default function Capabilities() {
         {GROUPS.map((g) => (
           <div className="cap-group" key={g.label}>
             <h3 className="cap-group__label">{g.label}</h3>
-
             <ul className="cap-group__items">
               {g.items.map((s) => (
                 <li key={s}>{s}</li>

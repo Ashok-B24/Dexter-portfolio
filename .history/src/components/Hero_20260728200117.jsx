@@ -2,9 +2,9 @@ import { useEffect, useRef } from 'react'
 import gsap from 'gsap'
 
 const TRACKS = [
-  { dir: 'left',  speed: 8,  text: 'Software Developer Engineer' },
-  { dir: 'right', speed: 10, text: 'Dexter' },
-  { dir: 'left',  speed: 6,  text: 'Ashok Basavaraju' },
+  { dir: 'left',  speed: 8,  text: 'YOUR TITLE' },
+  { dir: 'right', speed: 10, text: 'YOUR NAME' },
+  { dir: 'left',  speed: 6,  text: 'YOUR TAGLINE' },
 ]
 
 export default function Hero() {
