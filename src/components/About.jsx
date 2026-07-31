@@ -1,7 +1,7 @@
 const FACTS = [
   ['Based in', 'Bengaluru, India'],
   ['Field', 'Computer Science & Business Systems'],
-  ['Role', 'Software Engineering'],
+  ['Role', 'Software Development Engineering'],
   ['Languages', 'English · Kannada · Telugu · Hindi · Tamil'],
 ]
 
